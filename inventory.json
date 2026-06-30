@@ -1,0 +1,11 @@
+{
+  "base_oils": {
+    "olive_oil": { "price_per_oz": 0.15, "sap_value": 0.135, "hardness": 17, "cleansing": 0, "conditioning": 82 },
+    "coconut_oil": { "price_per_oz": 0.18, "sap_value": 0.190, "hardness": 79, "cleansing": 67, "conditioning": 10 },
+    "shea_butter": { "price_per_oz": 0.45, "sap_value": 0.128, "hardness": 45, "cleansing": 0, "conditioning": 60 },
+    "castor_oil": { "price_per_oz": 0.25, "sap_value": 0.128, "hardness": 0, "cleansing": 0, "conditioning": 90 }
+  },
+  "essential_oils": {
+    "lavender": { "price_per_oz": 1.20, "max_ifra_limit": 0.03 }
+  }
+}
